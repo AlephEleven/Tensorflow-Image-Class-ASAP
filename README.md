@@ -91,7 +91,7 @@ python --version
 
 #### It should return: *"Python 3.6.8 : : Anaconda Inc."*, atleast Python 3.6~
 
-#### After that, it's time to install a bunch of packages necessary for Tensorflow related projects, simply type in the following one by one:
+#### c) After that, it's time to install a bunch of packages necessary for Tensorflow related projects, simply type in the following one by one:
 
 ```
 conda install scipy
@@ -104,6 +104,18 @@ pip install --upgrade requests
 pip install --upgrade h5py
 pip install --upgrade psutil
 ```
+If psutil does not work, thats absolutely fine, it is not required as the rest are.
+
+#### Then we will specify the installation of Tensorflow that as of today, is currently stable.
+
+```
+pip install --upgrade tensorflow==1.12.0
+```
+#### In the case that there is a newer one, or an error occurs, you can just get rid of the "==1.12.0"
+
+
+
+
 
 
 
