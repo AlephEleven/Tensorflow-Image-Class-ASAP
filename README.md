@@ -14,7 +14,7 @@ Image-Recognition by Google (https://github.com/ArunMichaelDsouza/tensorflow-ima
 
 - Setup Pycharm
 
-- Make an anaconda file to store Tensorflow related projects
+- Install Anaconda & make an anaconda file to store Tensorflow related projects
 
 - Install Tensorflow, OpenCV, and other programs useful for ML/NN
 
@@ -37,6 +37,8 @@ Image-Recognition by Google (https://github.com/ArunMichaelDsouza/tensorflow-ima
 # 1) Installing Pycharm:
 
 a) In order you install Pycharm you will need to download it from the Jetbrains website: (https://www.jetbrains.com/pycharm/download/#section=windows)
+
+For the sake of this tutorial, the Community edition is all thats needed.
 
 ![Correct Pycharm download page](https://i.gyazo.com/40f28bd780ed7457a0befa156595fad5.png)
 
