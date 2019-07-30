@@ -44,7 +44,7 @@ a) To install Miniconda you will need to go on the Miniconda Documentation (http
 
 a) In order you install Pycharm you will need to download it from the Jetbrains website: (https://www.jetbrains.com/pycharm/download/#section=windows)
 
-For the sake of this tutorial, the Community edition is all thats needed.
+For the sake of this tutorial, the Community edition is all thats needed. (This is a tutorial using pure python)
 
 ![Correct Pycharm download page](https://i.gyazo.com/40f28bd780ed7457a0befa156595fad5.png)
 
