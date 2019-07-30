@@ -40,6 +40,23 @@ a) To install Miniconda you will need to go on the Miniconda Documentation (http
 
 ![Miniconda Doc page for download](https://i.gyazo.com/85a1e3cdf6ae040b1387bca3da4226ca.png)
 
+b) Once it has downloaded, the next thing to do is to run the installer, (In chrome you can do CTRL+J to check recent downloads then choose "Show in Folder", or just open the Downloads folder and find the installer)
+
+c) 
+  - Continue with the download
+  - Agree with the Terms and Conditions
+  - Choose "Just me" for Installation Type
+  - Make sure your installation location is in the "User or Users" directory.
+  - Choose "Register Anaconda as my default Python 3.7" for Advanced Options in order to make the Anaconda Prompt the terminal for Anaconda. 
+  - Wait for the installation to complete, and then continue. Deselect the options for "Learn more about Anaconda cloud" and "Learn how to get started with Anaconda"
+  
+### What did you just complete:
+- You now know how to install Miniconda with the proper settings for a Windows device.
+
+
+
+
+
 # LAST) Installing Pycharm:
 
 a) In order you install Pycharm you will need to download it from the Jetbrains website: (https://www.jetbrains.com/pycharm/download/#section=windows)
