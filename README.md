@@ -7,6 +7,8 @@ Video by Jeff Heaton: (https://www.youtube.com/watch?v=SfNFz3dRloI) - Installati
 
 Video by Chris Dahms: (https://www.youtube.com/watch?v=oXpsAiSajE0) - Image-Classification Walkthrough
 
+Image-Recognition by Google (https://github.com/ArunMichaelDsouza/tensorflow-image-detection)
+
 In this guide, you'll learn how to do the following:
 
 1) Setup Pycharm
@@ -20,6 +22,7 @@ In this guide, you'll learn how to do the following:
 6) Prepare the image classification program.
 
 7) Train & test a set of images in order to make your own image classifier.
+
 
 What this guide will *Not* teach you:
 
