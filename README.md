@@ -14,7 +14,7 @@ Image-Recognition by Google (https://github.com/ArunMichaelDsouza/tensorflow-ima
 
 - Setup Pycharm
 
-- Install Anaconda & make an anaconda file to store Tensorflow related projects
+- Install Miniconda & make an anaconda file to store Tensorflow related projects
 
 - Install Tensorflow, OpenCV, and other programs useful for ML/NN
 
