@@ -83,12 +83,28 @@ conda activate tensorflow
 
 ![Correct base in prompt](https://i.gyazo.com/ef52b1ff655ab91596a637076399161e.png)
 
-#### To make sure that you're using the correct Python version, type the command below, and check if it says:
-#### *"Python 3.6.8 : : Anaconda Inc."*
+#### To make sure that you're using the correct Python version, type the command below:
 
 ```
 python --version
 ```
+
+#### It should return: *"Python 3.6.8 : : Anaconda Inc."*, atleast Python 3.6~
+
+#### After that, it's time to install a bunch of packages necessary for Tensorflow related projects, simply type in the following one by one:
+
+```
+conda install scipy
+pip install --upgrade sklearn
+pip install --upgrade pandas
+pip install --upgrade pandas-datareader
+pip install --upgrade matplotlib
+pip install --upgrade pillow
+pip install --upgrade requests
+pip install --upgrade h5py
+pip install --upgrade psutil
+```
+
 
 
 
