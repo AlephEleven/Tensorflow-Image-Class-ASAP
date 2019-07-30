@@ -40,5 +40,6 @@ a) In order you install Pycharm you will need to download it from it's website:
 
 ![Correct Pycharm download page](https://i.gyazo.com/40f28bd780ed7457a0befa156595fad5.png)
 
+'''
 https://www.jetbrains.com/pycharm/download/#section=windows
-
+'''
