@@ -28,7 +28,7 @@ Image-Recognition by Google (https://github.com/ArunMichaelDsouza/tensorflow-ima
 
 - Programming with python (Although heres an excellent resource by youtuber Corey Schafer: https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
 
-- How to make your own neural networks (Free course on ML & NN by Google: https://developers.google.com/machine-learning/crash-course/ml-intro)
+- How to make your own neural networks (Free introductory course on ML & NN by Google: https://developers.google.com/machine-learning/crash-course/ml-intro)
 
 - How to use any of the other modules (Searching for a documentation/youtube tutorials should be good enough to learn them)
 
