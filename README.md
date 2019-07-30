@@ -55,7 +55,11 @@ Image-Recognition by Google (https://github.com/ArunMichaelDsouza/tensorflow-ima
 ### What did you just complete:
 - You now know how to install Miniconda with the proper settings for a Windows device.
 
+# 2) Creating a new Anaconda environment & installing modules using Anaconda Prompt
 
+a) After finishing the setup for Miniconda, search for "Anaconda Prompt" in the taskbar.
+
+![Anaconda Prompt in taskbar](https://chrisconlan.com/wp-content/uploads/2017/05/anaconda_prompt.png)
 
 
 
