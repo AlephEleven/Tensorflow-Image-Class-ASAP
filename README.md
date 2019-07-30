@@ -2,7 +2,7 @@
 ASAP guide on how to setup Tensorflow/Keras for Image Classification for Windows 10* 
 
 # *Disclaimer*:
-This tutorial includes content that can be found online, the goal of this tutorial was to combine the content in order to make it easier for people who are not as good at neural networks but want to see what it's like to use one in the perspective of a person using software to make such programs. What this means is, I went through the work of going through said content in order to make it easier for you to make what this tutorial has to offer and *I do not claim ownership to any of it*. The following content was used in order to make this tutorial:
+This tutorial includes content that can be found online, the goal of this tutorial was to combine the content in order to make it easier for people who are completely new to programming neural networks or programming for that matter, but want to see what it's like to use one. What this means is, I went through the work of going through said content in order to make it easier for you to make what this tutorial has to offer and *I do not claim ownership to any of it*. The following content was used in order to make this tutorial:
 
 Video by Jeff Heaton: (https://www.youtube.com/watch?v=SfNFz3dRloI) - Installation of Anaconda, Python, Tensorflow and Keras for Pycharm
 
@@ -67,6 +67,7 @@ b) Then you will create a virtual environment to use for Tensorflow/Python, sinc
 conda create --name tensorflow python=3.6
 ```
 ![Command Prompt Conda Create](https://i.gyazo.com/e8df78ec1b1c405b0913803377baeb3f.png)
+
 
 
 
