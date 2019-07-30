@@ -42,7 +42,9 @@ a) To install Miniconda you will need to go on the Miniconda Documentation (http
 
 b) Once it has downloaded, the next thing to do is to run the installer, (In chrome you can do CTRL+J to check recent downloads then choose "Show in Folder", or just open the Downloads folder and find the installer)
 
-c) 
+c) Upon opening the installer, you should be greeted with a setup page similar to the image below, go through the download and make sure you do the following:
+
+![Miniconda Installer page](https://katiekodes.com/images/screenshot-miniconda-02-execute.png)
   - Continue with the download
   - Agree with the Terms and Conditions
   - Choose "Just me" for Installation Type
