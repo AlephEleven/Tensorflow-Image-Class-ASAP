@@ -36,13 +36,13 @@ Image-Recognition by Google (https://github.com/ArunMichaelDsouza/tensorflow-ima
 
 # 1) Installing Miniconda:
 
-##### a) To install Miniconda you will need to go on the Miniconda Documentation (https://docs.conda.io/en/latest/miniconda.html) and install Python 3.7 64-bit (exe-installer)
+#### a) To install Miniconda you will need to go on the Miniconda Documentation (https://docs.conda.io/en/latest/miniconda.html) and install Python 3.7 64-bit (exe-installer)
 
 ![Miniconda Doc page for download](https://i.gyazo.com/85a1e3cdf6ae040b1387bca3da4226ca.png)
 
-##### b) Once it has downloaded, the next thing to do is to run the installer, (In chrome you can do CTRL+J to check recent downloads then choose "Show in Folder", or just open the Downloads folder and find the installer)
+#### b) Once it has downloaded, the next thing to do is to run the installer, (In chrome you can do CTRL+J to check recent downloads then choose "Show in Folder", or just open the Downloads folder and find the installer)
 
-##### c) Upon opening the installer, you should be greeted with a setup page similar to the image below, go through the download and make sure you do the following:
+#### c) Upon opening the installer, you should be greeted with a setup page similar to the image below, go through the download and make sure you do the following:
 
 ![Miniconda Installer page](https://katiekodes.com/images/screenshot-miniconda-02-execute.png)
   - Continue with the download
