@@ -68,7 +68,9 @@ conda create --name tensorflow python=3.6
 ```
 ![Command Prompt Conda Create](https://i.gyazo.com/e8df78ec1b1c405b0913803377baeb3f.png)
 
+
 #### When it's done, it will ask you to Proceed, typing in "y" and Enter.
+
 
 ![Anaconda Proceed Y/N](https://i.gyazo.com/0d658b2a2c1e7d87f3ea02ae0e149c8a.png)
 
