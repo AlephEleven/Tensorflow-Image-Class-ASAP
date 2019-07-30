@@ -1,5 +1,5 @@
 # Tensorflow-Image-Classification-ASAP
-ASAP guide on how to setup Tensorflow/Keras for Image Classification
+ASAP guide on how to setup Tensorflow/Keras for Image Classification for Windows 10* 
 
 # *Disclaimer*:
 This tutorial includes content that can be found online, the goal of this tutorial was to combine the content in order to make it easier for people who are not as good at neural networks but want to see what it's like to use one in the perspective of a person using software to make such programs. What this means is, I went through the work of going through said content in order to make it easier for you to make what this tutorial has to offer and *I do not claim ownership to any of it*. The following content was used in order to make this tutorial:
@@ -35,4 +35,8 @@ Image-Recognition by Google (https://github.com/ArunMichaelDsouza/tensorflow-ima
 - Anything else unrelated to this tutorial
 
 # 1) Installing Pycharm:
+
+a) In order you install Pycharm you will need to download it from it's website:
+
+[(https://www.jetbrains.com/pycharm/download/#section=windows)](https://i.gyazo.com/40f28bd780ed7457a0befa156595fad5.png)
 
