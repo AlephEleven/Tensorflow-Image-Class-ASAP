@@ -10,7 +10,7 @@ Video by Chris Dahms: (https://www.youtube.com/watch?v=oXpsAiSajE0) - Image-Clas
 
 Image-Recognition by Google (https://github.com/ArunMichaelDsouza/tensorflow-image-detection)
 
-# In this guide, you'll learn how to do the following:
+## In this guide, you'll learn how to do the following:
 
 1) Setup Pycharm
 
@@ -24,7 +24,7 @@ Image-Recognition by Google (https://github.com/ArunMichaelDsouza/tensorflow-ima
 
 7) Train & test a set of images in order to make your own image classifier.
 
-# What this guide will *Not* teach you:
+## What this guide will *Not* teach you:
 
 1) Programming with python (Although heres an amazing resource by youtuber Corey Schafer: https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
 
