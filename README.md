@@ -34,7 +34,13 @@ Image-Recognition by Google (https://github.com/ArunMichaelDsouza/tensorflow-ima
 
 - Anything else unrelated to this tutorial
 
-# 1) Installing Pycharm:
+# 1) Installing Miniconda:
+
+a) To install Miniconda you will need to go on the Miniconda Documentation (https://docs.conda.io/en/latest/miniconda.html) and install Python 3.7 64-bit (exe-installer)
+
+![Miniconda Doc page for download](https://i.gyazo.com/85a1e3cdf6ae040b1387bca3da4226ca.png)
+
+# LAST) Installing Pycharm:
 
 a) In order you install Pycharm you will need to download it from the Jetbrains website: (https://www.jetbrains.com/pycharm/download/#section=windows)
 
