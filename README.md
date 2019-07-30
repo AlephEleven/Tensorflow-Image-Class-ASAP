@@ -8,7 +8,7 @@ Video by Jeff Heaton: (https://www.youtube.com/watch?v=SfNFz3dRloI) - Installati
 
 Video by Chris Dahms: (https://www.youtube.com/watch?v=oXpsAiSajE0) - Image-Classification Walkthrough
 
-Image-Recognition by Google (https://github.com/ArunMichaelDsouza/tensorflow-image-detection)
+Image-Recognition by Google (https://github.com/ArunMichaelDsouza/tensorflow-image-detection) - Used in the Image-Classification Walkthrough
 
 ## In this guide, you'll learn how to do the following:
 
@@ -33,4 +33,6 @@ Image-Recognition by Google (https://github.com/ArunMichaelDsouza/tensorflow-ima
 3) How to use any of the other modules (Searching for a documentation/youtube tutorials should be good enough to learn them)
 
 4) Anything else unrelated to this tutorial
+
+#
 
