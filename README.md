@@ -74,7 +74,14 @@ conda create --name tensorflow python=3.6
 
 ![Anaconda Proceed Y/N](https://i.gyazo.com/0d658b2a2c1e7d87f3ea02ae0e149c8a.png)
 
-#### 
+#### Once it has made the new directory, you will activate it.
+
+```
+conda activate tensorflow
+```
+#### As long as you have been following the instructions properly, you should see that in place of (base), it should say (tensorflow).
+
+![Correct base in prompt](https://i.gyazo.com/ef52b1ff655ab91596a637076399161e.png)
 
 
 
