@@ -8,31 +8,31 @@ Video by Jeff Heaton: (https://www.youtube.com/watch?v=SfNFz3dRloI) - Installati
 
 Video by Chris Dahms: (https://www.youtube.com/watch?v=oXpsAiSajE0) - Image-Classification Walkthrough
 
-Image-Recognition by Google (https://github.com/ArunMichaelDsouza/tensorflow-image-detection) - Used in the Image-Classification Walkthrough
+Image-Recognition by Google (https://github.com/ArunMichaelDsouza/tensorflow-image-detection) - I.R program in the walkthrough
 
 ## In this guide, you'll learn how to do the following:
 
-1) Setup Pycharm
+- Setup Pycharm
 
-2) Make an anaconda file to store Tensorflow related projects
+- Make an anaconda file to store Tensorflow related projects
 
-3) Install Tensorflow, OpenCV, and other programs useful for ML/NN
+- Install Tensorflow, OpenCV, and other programs useful for ML/NN
 
-4) Create a Tensorflow-Python Interpreter for ML/NN
+- Create a Tensorflow-Python Interpreter for ML/NN
 
-6) Prepare the image classification program.
+- Prepare the image classification program.
 
-7) Train & test a set of images in order to make your own image classifier.
+- Train & test a set of images in order to make your own image classifier.
 
 ## What this guide will *Not* teach you:
 
-1) Programming with python (Although heres an amazing resource by youtuber Corey Schafer: https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
+- Programming with python (Although heres an excellent resource by youtuber Corey Schafer: https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
 
-2) How to make your own neural networks (Free course on ML & NN by Google: https://developers.google.com/machine-learning/crash-course/ml-intro)
+- How to make your own neural networks (Free course on ML & NN by Google: https://developers.google.com/machine-learning/crash-course/ml-intro)
 
-3) How to use any of the other modules (Searching for a documentation/youtube tutorials should be good enough to learn them)
+- How to use any of the other modules (Searching for a documentation/youtube tutorials should be good enough to learn them)
 
-4) Anything else unrelated to this tutorial
+- Anything else unrelated to this tutorial
 
-#
+# 1) Installing Pycharm:
 
