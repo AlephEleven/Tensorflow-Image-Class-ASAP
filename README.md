@@ -36,10 +36,7 @@ Image-Recognition by Google (https://github.com/ArunMichaelDsouza/tensorflow-ima
 
 # 1) Installing Pycharm:
 
-a) In order you install Pycharm you will need to download it from it's website:
+a) In order you install Pycharm you will need to download it from the Jetbrains website: (https://www.jetbrains.com/pycharm/download/#section=windows)
 
 ![Correct Pycharm download page](https://i.gyazo.com/40f28bd780ed7457a0befa156595fad5.png)
 
-```
-(https://www.jetbrains.com/pycharm/download/#section=windows)
-```
