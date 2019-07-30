@@ -83,8 +83,12 @@ conda activate tensorflow
 
 ![Correct base in prompt](https://i.gyazo.com/ef52b1ff655ab91596a637076399161e.png)
 
+#### To make sure that you're using the correct Python version, type the command below, and check if it says:
+#### *"Python 3.6.8 : : Anaconda Inc."*
 
-
+```
+python --version
+```
 
 
 
