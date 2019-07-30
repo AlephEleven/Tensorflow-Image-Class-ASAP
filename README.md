@@ -57,9 +57,19 @@ Image-Recognition by Google (https://github.com/ArunMichaelDsouza/tensorflow-ima
 
 # 2) Creating a new Anaconda environment & installing modules using Anaconda Prompt
 
-a) After finishing the setup for Miniconda, search for "Anaconda Prompt" in the taskbar.
+a) After finishing the setup for Miniconda, search for "Anaconda Prompt" in the taskbar and open it.
 
 ![Anaconda Prompt in taskbar](https://chrisconlan.com/wp-content/uploads/2017/05/anaconda_prompt.png)
+
+b) Then you will create a virtual environment to use for Tensorflow/Python, since TF currently supports up to Python 3.6, we will enter the following command into the Anaconda Prompt. This can be done by entering the following command:
+
+```
+conda create --name tensorflow python=3.6
+```
+![Command Prompt Conda Create](https://i.gyazo.com/e8df78ec1b1c405b0913803377baeb3f.png)
+
+
+
 
 
 
