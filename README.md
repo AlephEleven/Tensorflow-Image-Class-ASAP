@@ -156,5 +156,29 @@ print(tf.__version__)
 
 #### c) Now continue with the Setup with the following:
 ![PyCharm Setup Welcome Screen](https://www.guru99.com/images/Pythonnew/Python2.6.png)
- -
+ - Continue with the download
+ - In the Installtion options choose the 64-bit launcher, and "Add launchers dir to the PATH"
+ - Keep the Menu Folder as JetBrains
+ - Finish
+#### Once the setup is complete, you will want to reboot in order for PyCharm to be set up correctly
+
+#### d) Go to the taskbar and search for PyCharm and open.
+
+#### e) Choose "Do not import settings", since there is nothing to import
+
+#### f) Choose any background setting you want
+
+#### g) Skip by pressing "Start using PyCharm"
+
+### What did you just complete:
+- You now know how to setup PyCharm with the proper settings
+
+# 4) Creating an environment with a specific directory
+
+#### WARNING: This part of the tutorial is the trickiest, but as long as you follow the instructions it will be a breeze
+
+#### a) Select "+ Create New Project"
+![PyCharm Project Screen](https://i.gyazo.com/59fd5ca607340d4f86a4b8be71ea108f.png)
+
+
 
