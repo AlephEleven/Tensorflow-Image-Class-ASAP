@@ -12,7 +12,7 @@ Image-Recognition by Google (https://github.com/ArunMichaelDsouza/tensorflow-ima
 
 ## In this guide, you'll learn how to do the following:
 
-- Setup Pycharm
+- Setup PyCharm
 
 - Install Miniconda & make an anaconda file to store Tensorflow related projects
 
@@ -32,7 +32,10 @@ Image-Recognition by Google (https://github.com/ArunMichaelDsouza/tensorflow-ima
 
 - How to use any of the other modules (Searching for a documentation/youtube tutorials should be good enough to learn them)
 
+- How to classify multiple objects in an image
+
 - Anything else unrelated to this tutorial
+
 
 # 1) Installing Miniconda:
 
@@ -139,11 +142,19 @@ print(tf.__version__)
 - You can now to install and specify packages for said directory
 - You can verify that you have properly install a module by importing it in the Python Interpreter
 
-# 3) Installing Pycharm:
+# 3) Installing PyCharm:
 
-a) In order you install Pycharm you will need to download it from the Jetbrains website: (https://www.jetbrains.com/pycharm/download/#section=windows)
+#### a) In order you install PyCharm you will need to download it from the Jetbrains website: (https://www.jetbrains.com/pycharm/download/#section=windows)
 
-For the sake of the tutorial, the Community edition is whats needed. Make sure that the "Released" on the download page says at least January 2019, or higher
+#### For the sake of the tutorial, the Community edition is whats needed. Make sure that the "Released" on the download page says at least January 2019, or higher
 
 ![Correct Pycharm download page](https://i.gyazo.com/40f28bd780ed7457a0befa156595fad5.png)
+
+#### Incase you have previously installed PyCharm, you should uninstall it and replace it with the newly downloaded installer
+
+#### b) Run the installer (Again, you can open it in chrome by doing CTRL+J to find it, or by opening the downloads folder)
+
+#### c) Now continue with the Setup with the following:
+![PyCharm Setup Welcome Screen](https://www.guru99.com/images/Pythonnew/Python2.6.png)
+ -
 
