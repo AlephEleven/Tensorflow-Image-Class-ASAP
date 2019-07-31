@@ -40,7 +40,7 @@ Image-Recognition by Google (https://github.com/ArunMichaelDsouza/tensorflow-ima
 
 - How to use any of the other modules (Searching for a documentation/youtube tutorials should be good enough to learn them)
 
-- How to classify multiple objects in an image
+- How to classify multiple objects in an image (Object Detection by youtuber Chris Dahms https://www.youtube.com/watch?v=rWFg6R5ccOc)
 
 - Anything else unrelated to this tutorial
 
