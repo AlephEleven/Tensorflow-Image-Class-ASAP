@@ -297,7 +297,7 @@ git clone https://github.com/MicrocontrollersAndMore/TensorFlow_Tut_2_Classifica
 - You have completed this tutorial, and you can now make your own image classifier!
 - You have run an image classifier using either your own, or the tutorial's images.
 
-# Now you can make your own image classifier, by just following the steps in stage 5 that are in the blockquotes. Enjoy!
+# Now you can make your own image classifier, by just following the steps in Part 5 that are in the blockquotes. Enjoy!
 
 
 
