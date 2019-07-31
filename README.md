@@ -103,28 +103,47 @@ pip install --upgrade pillow
 pip install --upgrade requests
 pip install --upgrade h5py
 pip install --upgrade psutil
+pip install --upgrade opencv-python
 ```
 If psutil does not work, thats absolutely fine, it is not required as the rest are.
 
-#### Then we will specify the installation of Tensorflow that as of today, is currently stable.
+#### Then you will specify the installation of Tensorflow that as of today, is currently stable.
 
 ```
 pip install --upgrade tensorflow==1.12.0
 ```
-#### In the case that there is a newer one, or an error occurs, you can just get rid of the "==1.12.0"
+#### In the case that there is a newer ver. of TF, or an error occurs, you can just get rid of the "==1.12.0"
 
+#### And you will also install a specific version of Keras
 
+```
+pip install --upgrade keras==2.2.4
+```
 
+#### To make sure that Tensorflow has been installed, we will run the following:
 
+```
+python
+```
+#### This will change the prompt to a Python prompt, with it you will check if tensorflow is installed by doing:
 
+```
+import tensorflow as tf
+print(tf.__version__)
+```
 
+#### If no errors have occured, and the prompt returns "1.12.0" after printing (unless you removed the =='s when installing tensorflow) you will be good to!
 
+### What did you just complete:
+- You now know how create a base directory, (tensorflow)
+- You can now to install and specify packages for said directory
+- You can verify that you have properly install a module by importing it in the Python Interpreter
 
-# LAST) Installing Pycharm:
+# 3) Installing Pycharm:
 
 a) In order you install Pycharm you will need to download it from the Jetbrains website: (https://www.jetbrains.com/pycharm/download/#section=windows)
 
-For the sake of this tutorial, the Community edition is all thats needed. (This is a tutorial using pure python)
+For the sake of the tutorial, the Community edition is whats needed. Make sure that the "Released" on the download page says at least January 2019, or higher
 
 ![Correct Pycharm download page](https://i.gyazo.com/40f28bd780ed7457a0befa156595fad5.png)
 
