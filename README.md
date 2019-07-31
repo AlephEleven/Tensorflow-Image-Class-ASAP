@@ -251,6 +251,13 @@ git clone https://github.com/MicrocontrollersAndMore/TensorFlow_Tut_2_Classifica
 
 #### c) Once the the command prompt has finished doing it's task you will be able to find the github clone that you have just downloaded in your Documents file, which you can then open.
 
+> At this point in the tutorial, if you want to make your own image classifier, youre going to want to make a compilation of atleast 100+ images of a similar image, and then another compilation of atleast 100+ images of another image in the case that you do not want  to follow the example used in the tutorial. You will want the images to be .jpg, and to classify what type of image it is, make a folder name for the images.
+
+
+> Ex: folder with a compliation of chocolate cakes should be called chocolate_cakes, and another folder with ice cream cakes should be called ice_cream_cakes.
+
+> In the case of this tutorial, instead of road_bikes and mountain_bikes you would use chocolate_cakes and ice_cream_cakes
+
 #### d) You can find the roadbikes/mountainbikes example that will be used in this tutorial in the word file, or you can download the two resources here (https://drive.google.com/drive/folders/1ywyfiAEI0ql81gMy58UeamWvV7u9xGn9?usp=sharing)
 
 #### e) Then, go back to the github download and open up retrain.py. If retrain.py is not in PyCharm, you can change it by: Right clicking on the program > Open With > PyCharm, or if necessary > Choose Another App > PyCharm.
@@ -260,6 +267,8 @@ git clone https://github.com/MicrocontrollersAndMore/TensorFlow_Tut_2_Classifica
 #### g) Then in the github download, make a new folder, and call it "training_images", inside training_images open up the mountain bikes zip, and put the folder in the zip file into the training_images file. Do this again for the road bikes zip file, it should end up looking like this:
 
 ![training_images folder](https://i.gyazo.com/ed4acc3b404cb2009658af487a56515c.png)
+
+#### h) Again in the github download, make a new folder, and this time, call it "test_images", in this folder, you will want to put aside images that will be used to test the neural network from the training_images folder. 3-4 of each folder in training_images should be good enough.
 
 
 
