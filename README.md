@@ -291,7 +291,7 @@ git clone https://github.com/MicrocontrollersAndMore/TensorFlow_Tut_2_Classifica
 
 ![import cv2 as random](https://i.gyazo.com/a163a3912d7c15991aa3c0a8923e618f.png)
 
-#### c) Finally, you can right click on train.py, press Run 'test', and watch as your program pops up images from your test_images folder as it puts it's predictions on item it thinks it is. (You can put any image in test_images and see what the program things it looks more like)
+#### c) Finally, you can right click on train.py, press Run 'test', and watch as your program pops up images from your test_images folder as it puts it's predictions on what item it thinks it is. (You can put any image in test_images and see what the program things it looks more like)
 
 ### What did you just complete:
 - You have completed this tutorial, and you can now make your own image classifier!
