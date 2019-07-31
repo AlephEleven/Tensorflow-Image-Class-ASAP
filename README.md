@@ -204,10 +204,16 @@ print(tf.__version__)
 
 #### g) Now you can finally click "Create" on the bottom right of New Project
 
-#### h) Once Pycharm opens with your folder, you will have to wait for PyCharm to scan a bunch of packages. You can proceed once the bottom middle of the window has nothing else loading
+#### h) Once PyCharm opens with your folder, you will have to wait for PyCharm to scan a bunch of packages. You can proceed once the bottom middle of the window has nothing else loading
 ![PyCharm window](https://i.gyazo.com/e6d2824477eae8baafa90d14c50c4c46.png) 
 
+### You have fully installed Tensorflow/Keras with Anaconda, and you can now use it for any neural network project you may want to do.
 
+### What did you just complete:
+- You can setup a PyCharm environment for Tensorflow using Anaconda
+- You can go through directories in order to get the correct interpreter for your programs *Python 3.6 (tensorflow)*, you can check that youre on the right interpreter by looking at the bottom right of the window, it should like this:
+
+![Python 3.6 tensorflow](https://i.gyazo.com/788f7c68d14fd3d043f3b0ceebb11de1.png)
 
 
 
