@@ -299,7 +299,9 @@ git clone https://github.com/MicrocontrollersAndMore/TensorFlow_Tut_2_Classifica
 
 # Now you can make your own image classifier, by just following the steps in Part 5 that are in the blockquotes. Enjoy!
 
+### Further Reading:
 
+#### If you would like to turn your image classifier, into an object detection model instead, you can go through this program that takes you through the steps of making one (video by youtuber Chris Dahms https://www.youtube.com/watch?v=rWFg6R5ccOc).
 
 
 
