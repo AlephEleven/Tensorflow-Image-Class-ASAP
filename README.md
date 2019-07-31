@@ -268,7 +268,10 @@ git clone https://github.com/MicrocontrollersAndMore/TensorFlow_Tut_2_Classifica
 
 ![training_images folder](https://i.gyazo.com/ed4acc3b404cb2009658af487a56515c.png)
 
-#### h) Again in the github download, make a new folder, and this time, call it "test_images", in this folder, you will want to put aside images that will be used to test the neural network from the training_images folder. 3-4 of each folder in training_images should be good enough.
+#### h) Again in the github download, make a new folder, and this time, call it "test_images", in this folder, you will want to put aside images that will be used to test the neural network from the training_images folder. 3-4 of each folder in training_images is all you will need, but you can put more.
+
+#### i) Go back to PyCharm, and right click "retrain.py" and then click "> Run 'retrain'"
+![Retrain img](https://i.gyazo.com/efb3473ee670e54b6507287180de4db6.png)
 
 
 
