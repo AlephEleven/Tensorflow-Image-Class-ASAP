@@ -180,5 +180,35 @@ print(tf.__version__)
 #### a) Select "+ Create New Project"
 ![PyCharm Project Screen](https://i.gyazo.com/59fd5ca607340d4f86a4b8be71ea108f.png)
 
+#### b) When it asks for "Location:", you can call the project "TF-TEST" for the tutorial, but you can change it something else later on. WARNING: DO NOT, press "Create", you have not yet made an interpreter for the project.
+
+#### c) Click the drop down right under location (the white arrow), you will want to choose "Existing Interpreter" and then at the far right, click the icon with 3 dots
+![Existing Interpreter Option](https://i.gyazo.com/5d329fdacd2fb814c5711b812c6d39b1.png)
+
+#### d) Once a new screen pops up, click on the icon with 3 dots (on the new screen), again found on the far right.
+![Interpreter Selection Screen](https://i.gyazo.com/7ff237041ff50c05d71c62ddc6bd6436.png)
+
+#### e) This part will be what makes this a bit tricky, but you will want to navigate through the directories as followed:
+![Directory Selection Screen](https://i.gyazo.com/3ec8c6f321cb39132597d39a4cba91ab.png)
+ - C:\
+ - Users
+ - (username) - This is the name of your computer that you are on, but it is _**Not**_ the Public directory
+ - Miniconda3
+ - envs
+ - tensorflow
+ - python.exe - _**Not**_ pythonw.exe
+
+#### Once you have selected python.exe, select "OK"
+
+#### f) Choose "Make avaliable to all projects" so that you can reuse this directory path, then select "OK"
+
+#### g) Now you can finally click "Create" on the bottom right of New Project
+
+#### h) Once Pycharm opens with your folder, you will have to wait for PyCharm to scan a bunch of packages. You can proceed once the bottom middle of the window has nothing else loading
+![PyCharm window](https://i.gyazo.com/e6d2824477eae8baafa90d14c50c4c46.png) 
+
+
+
+
 
 
