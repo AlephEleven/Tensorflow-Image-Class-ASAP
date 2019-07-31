@@ -225,7 +225,7 @@ print(tf.__version__)
 
 # 5) Setting Up Inception Neural Network for Training Image Classifier.
 
-#### Although the heading of this part may sound confusing, The actual set up is easier than it sounds, you can learn about what a Inception Neural Network is here: (https://towardsdatascience.com/a-simple-guide-to-the-versions-of-the-inception-network-7fc52b863202)
+#### Although the heading of this part may sound confusing, The actual set up is easier than it sounds, you can learn about what a Inception Neural Network is here: https://github.com/tensorflow/models/tree/master/research/inception
 
 #### a) To get the neural network that you are going to be able to use for image classification, got to the git page (https://github.com/MicrocontrollersAndMore/TensorFlow_Tut_2_Classification_Walk-through).
 
@@ -272,6 +272,26 @@ git clone https://github.com/MicrocontrollersAndMore/TensorFlow_Tut_2_Classifica
 
 #### i) Go back to PyCharm, and right click "retrain.py" and then click "> Run 'retrain'"
 ![Retrain img](https://i.gyazo.com/efb3473ee670e54b6507287180de4db6.png)
+
+#### j) Now the Inception model will begin to train with the images that were given (You might see red letters when the terminal opens in PyCharm, this is not a bad thing, tbis is just the program running the Inception model) and once its done training you can move on.
+
+### What did you just complete:
+- You can succesfully download a huge file of .jpgs, classify them with a proper name, and train them using the Inception model!
+- You have just trained an image classifier on a set of images!
+
+# 6/Final) Testing your images!
+
+#### a) Open up your git download, and open test.py with PyCharm, for instructions on how to do set up a python file with PyCharm, refer to (Part 5, Step f) for test.py instead of retrain.py.
+
+#### b) Before you run the program, you have to make one change to it, on the very top it says "import ...", press the little + bottom on the left.
+
+![import open button](https://i.gyazo.com/42b43fdb679dadbe5b93041389f25b3c.png)
+
+#### Then, where it says "import cv2", change it to "import cv2 as random", it should look like this:
+
+![import cv2 as random](https://i.gyazo.com/a163a3912d7c15991aa3c0a8923e618f.png)
+
+
 
 
 
