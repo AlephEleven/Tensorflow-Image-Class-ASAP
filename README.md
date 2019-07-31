@@ -10,6 +10,14 @@ Video by Chris Dahms: (https://www.youtube.com/watch?v=oXpsAiSajE0) - Image-Clas
 
 Image-Recognition by Google (https://github.com/ArunMichaelDsouza/tensorflow-image-detection) - I.R program in the walkthrough
 
+#### tl;dr: This tutorial is recommended if you are one or more the following:
+
+ - Never have made a program in Python/Any programming language before.
+ - You have experience with how to install software
+ - You need a quick image classification guide that can be done as short as under an hour
+ - You want a neural network thats made by the professionals at Google
+ - You have a short deadline to setup an image classifier and don't know how to code
+
 ## In this guide, you'll learn how to do the following:
 
 - Setup PyCharm
@@ -211,9 +219,48 @@ print(tf.__version__)
 
 ### What did you just complete:
 - You can setup a PyCharm environment for Tensorflow using Anaconda
-- You can go through directories in order to get the correct interpreter for your programs *Python 3.6 (tensorflow)*, you can check that youre on the right interpreter by looking at the bottom right of the window, it should like this:
+- You can go through directories in order to get the correct interpreter for your programs "*Python 3.6 (tensorflow)*", you can check that youre on the right interpreter by looking at the bottom right of the window, it should like this:
 
 ![Python 3.6 tensorflow](https://i.gyazo.com/788f7c68d14fd3d043f3b0ceebb11de1.png)
+
+# 5) Setting Up Inception Neural Network for Training Image Classifier.
+
+#### Although the heading of this part may sound confusing, The actual set up is easier than it sounds, you can learn about what a Inception Neural Network is here: (https://towardsdatascience.com/a-simple-guide-to-the-versions-of-the-inception-network-7fc52b863202)
+
+#### a) To get the neural network that you are going to be able to use for image classification, got to the git page (https://github.com/MicrocontrollersAndMore/TensorFlow_Tut_2_Classification_Walk-through).
+
+#### b) Open any folder in your "Documents" folder and copy the destination, then go to the taskbar, search for and open Command Prompt, then do:
+
+```
+cd {copied destination}
+```
+
+#### It should look something like this:
+
+```
+cd C:\Users\{username}\Documents\
+```
+
+{username} should have your computer's name instead
+
+#### Then after the destination changes, copy this into the terminal:
+
+```
+git clone https://github.com/MicrocontrollersAndMore/TensorFlow_Tut_2_Classification_Walk-through.git
+```
+
+#### c) Once the the command prompt has finished doing it's task you will be able to find the github clone that you have just downloaded in your Documents file, which you can then open.
+
+#### d) You can find the roadbikes/mountainbikes example that will be used in this tutorial in the word file, or you can download the two resources here (https://drive.google.com/drive/folders/1ywyfiAEI0ql81gMy58UeamWvV7u9xGn9?usp=sharing)
+
+#### e) Then, go back to the github download and open up retrain.py. If retrain.py is not in PyCharm, you can change it by: Right clicking on the program > Open With > PyCharm, or if necessary > Choose Another App > PyCharm.
+
+#### f) Once retrain.py is opened on PyCharm, go to the bottom right where you recall the Python 3.6 (tensorflow) being when you installed PyCharm, it should say *No interprenter* if you have closed PyCharm previously. Click on that, and choose Python 3.6 (tensorflow) with the Anaconda logo on it. Now you should be able to run retrain with the correct interpreter.
+
+#### g) Then in the github download, make a new folder, and call it "training_images", inside training_images open up the mountain bikes zip, and put the folder in the zip file into the training_images file. Do this again for the road bikes zip file, it should end up looking like this:
+
+![training_images folder](https://i.gyazo.com/ed4acc3b404cb2009658af487a56515c.png)
+
 
 
 
