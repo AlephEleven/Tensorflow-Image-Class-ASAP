@@ -152,7 +152,7 @@ print(tf.__version__)
 
 # 3) Installing PyCharm:
 
-#### a) In order you install PyCharm you will need to download it from the Jetbrains website: (https://www.jetbrains.com/pycharm/download/#section=windows)
+#### a) In order to install PyCharm you will need to download it from the Jetbrains website: (https://www.jetbrains.com/pycharm/download/#section=windows)
 
 #### For the sake of the tutorial, the Community edition is whats needed. Make sure that the "Released" on the download page says at least January 2019, or higher
 
