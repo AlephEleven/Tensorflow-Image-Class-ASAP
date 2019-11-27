@@ -13,7 +13,7 @@ Image-Recognition by Google (https://github.com/ArunMichaelDsouza/tensorflow-ima
 #### tl;dr: This tutorial is recommended if you are one or more the following:
 
  - Never have made a program in Python/Any programming language before.
- - You have experience with how to install software
+ - You have experience with installing software
  - You need a quick image classification guide that can be done as short as under an hour
  - You want a neural network thats made by the professionals at Google
  - You have a short deadline to setup an image classifier and don't know how to code
